@@ -1,3 +1,4 @@
+“I am editing the Readme file.”
 - 👋 Hi, I’m @THtweety1
 - 👀 I’m interested in many things, but mainly technology.
 - 🌱 I’m currently learning Computer Science
