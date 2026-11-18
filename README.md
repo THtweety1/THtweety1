@@ -3,7 +3,7 @@
 - 👀 I’m interested in many things, but mainly technology.
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Everything
-- 📫 How to reach me ...
+- 📫 How to reach me; just shoot me an email.
 - 😄 Pronouns: She, Her
 - ⚡ Fun fact: I enjoy creative writing.
 
